@@ -1,0 +1,6 @@
+,PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+52,53,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,C
+418,419,2,"Matthews, Mr. William John",male,30.0,0,0,28228,13.0,,S
+90,91,3,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,,S
+21,22,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,S
+882,883,3,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,,S
