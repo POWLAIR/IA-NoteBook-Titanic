@@ -95,36 +95,4 @@ Les données d'entrée doivent contenir les colonnes suivantes :
 | Embarked | Port d'embarquement (C = Cherbourg, Q = Queenstown, S = Southampton) |
 
 ## Auteur
-[Votre Nom]
-
-## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## Contributions
-Les contributions sont les bienvenues ! Pour contribuer :
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
-## Contact
-- Email : [votre-email@example.com]
-- LinkedIn : [votre-profil-linkedin]
-- GitHub : [@votre-username]
-
-## Remerciements
-- Kaggle pour le jeu de données du Titanic
-- La communauté open source pour les bibliothèques utilisées
-- Tous les contributeurs du projet
-
-Les principales améliorations apportées sont :
-1. Meilleure mise en forme de l'arborescence du projet
-2. Ajout de commandes bash formatées correctement
-3. Ajout d'un tableau pour la structure des données
-4. Instructions d'utilisation plus détaillées
-5. Meilleure organisation des sections Contact et Contributions
-6. Ajout de chemins plus précis pour les notebooks
-7. Ajout de descriptions pour les colonnes de données
-8. Suggestion de licence MIT par défaut
-9. Format plus professionnel pour les informations de contact
+[Claverie Paul]
